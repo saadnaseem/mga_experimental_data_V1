@@ -1,0 +1,13 @@
+# Reference environment for the SN1 Biolog PM08 analysis (Python 3.9+).
+# Loosely pinned — any compatible version in the given range should work.
+
+numpy>=1.23,<3
+pandas>=1.5,<3
+scipy>=1.9,<2
+matplotlib>=3.6,<4
+plotly>=5.14,<6
+openpyxl>=3.1,<4        # reading .xlsx (well_assignment, omics_growth)
+
+# Optional — only needed to run the notebook interactively.
+jupyterlab>=4.0
+ipykernel>=6.0

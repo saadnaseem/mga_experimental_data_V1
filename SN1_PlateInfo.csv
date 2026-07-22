@@ -1,0 +1,5 @@
+﻿PlateId,Project Name,Project Code,Plate Type,Sample,Loaded At,Incubation Hours,Incubation Temperature Celsius,Incubated Offline,Cycle Time Minutes,Position,Protocol,Description
+"5683f0c2-896e-414c-9a11-15a929454386","SN1_SN1_AM1_5.1.26","SN1","PM08","SN1_1c","2026-05-01T21:15:15.642047Z","48","30","false","20","14a","custom","SN1_1c"
+"131e4d8e-bb52-452c-9cd4-d0e2e3086622","SN1_SN1_AM1_5.1.26","SN1","PM08","SN1_2c","2026-05-01T21:15:15.642047Z","48","30","false","20","14b","custom","SN1_2c"
+"0c8b3777-ff79-4df1-b7e9-d33d2141450a","SN1_SN1_AM1_5.1.26","SN1","PM08","SN1_3c","2026-05-01T21:15:15.642047Z","48","30","false","20","13a","custom","Sn1_3c"
+"e5bb1e78-a403-47c1-a23e-22a41c178978","SN1_SN1_AM1_5.1.26","SN1","PM08","SN1_4c","2026-05-01T21:15:15.642047Z","48","30","false","20","13b","custom","SN1_4c"

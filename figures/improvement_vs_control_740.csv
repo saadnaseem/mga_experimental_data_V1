@@ -1,0 +1,6 @@
+condition,n_reps,plates_present,AUC_740_mean,AUC_740_std,ctrl_AUC_740_matched,AUC_740_pct_vs_ctrl,mu_max_740_mean_per_h,mu_max_740_std_per_h,ctrl_mu_max_740_matched,mu_max_740_pct_vs_ctrl
+MPOB_008,4,SN1_1c,5.271,0.133,3.061,72.2,0.259,0.02,0.183,41.7
+MPOB_058,4,SN1_4c,5.119,0.133,2.912,75.8,0.247,0.009,0.171,44.6
+MPOB_045,4,SN1_2c,4.233,0.18,2.884,46.8,0.191,0.009,0.166,14.7
+MPOB_041,4,SN1_2c,4.228,0.178,2.884,46.6,0.251,0.006,0.166,50.7
+MPOB_068,4,SN1_2c,4.024,0.16,2.884,39.6,0.202,0.006,0.166,21.3

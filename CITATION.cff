@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite both the manuscript and this repository."
+title: "SN1 Biolog PM08 media-optimization screen — raw data and analysis code"
+authors:
+  - family-names: "[Last name]"
+    given-names: "[First name]"
+    email: "snaseem@lbl.gov"
+    affiliation: "Lawrence Berkeley National Laboratory"
+  # Add co-authors here, one block per author.
+date-released: 2026-07-22
+license: MIT                    # Code license.
+license-url: "https://creativecommons.org/licenses/by/4.0/"   # Data license (CC-BY-4.0).
+version: "1.0.0"
+repository-code: "[GitHub URL placeholder]"
+url: "[GitHub URL placeholder]"
+keywords:
+  - "Biolog PM08"
+  - "media optimization"
+  - "growth kinetics"
+  - "DBTL"
+  - "Pseudomonas putida"
+  - "specific growth rate"
+  - "AUC"
+abstract: >
+  Raw absorbance kinetics from a Biolog PM08 media-optimization screen
+  (4 x 96-well plates, 590 nm dye reduction and 740 nm turbidity, 48 h at
+  30 °C), together with the analysis pipeline that produces per-condition
+  growth kinetics (AUC, mu_max, doubling time, lag) and identifies the top
+  media designs relative to a plate-matched control. Accompanies the
+  manuscript listed under `preferred-citation`.
+
+preferred-citation:
+  type: article
+  title: "[Manuscript title placeholder]"
+  authors:
+    - family-names: "[Last name]"
+      given-names: "[First name]"
+      affiliation: "Lawrence Berkeley National Laboratory"
+  year: 2026
+  journal: "[Journal placeholder]"
+  doi: "[DOI placeholder]"
+  url: "[URL placeholder]"
