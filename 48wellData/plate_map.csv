@@ -1,0 +1,49 @@
+well,row,col,condition,replicate,role
+A1,A,1,unused,,unused
+A2,A,2,unused,,unused
+A3,A,3,unused,,unused
+A4,A,4,unused,,unused
+A5,A,5,unused,,unused
+A6,A,6,unused,,unused
+A7,A,7,unused,,unused
+A8,A,8,unused,,unused
+B1,B,1,blank,,"blank (media only, no cells)"
+B2,B,2,MPOB_008,1.0,sample
+B3,B,3,MPOB_008,2.0,sample
+B4,B,4,MPOB_008,3.0,sample
+B5,B,5,MPOB_058,1.0,sample
+B6,B,6,MPOB_058,2.0,sample
+B7,B,7,MPOB_058,3.0,sample
+B8,B,8,blank,,"blank (media only, no cells)"
+C1,C,1,blank,,"blank (media only, no cells)"
+C2,C,2,MPOB_045,1.0,sample
+C3,C,3,MPOB_045,2.0,sample
+C4,C,4,MPOB_045,3.0,sample
+C5,C,5,MPOB_041,1.0,sample
+C6,C,6,MPOB_041,2.0,sample
+C7,C,7,MPOB_041,3.0,sample
+C8,C,8,blank,,"blank (media only, no cells)"
+D1,D,1,blank,,"blank (media only, no cells)"
+D2,D,2,MPOB_068,1.0,sample
+D3,D,3,MPOB_068,2.0,sample
+D4,D,4,MPOB_068,3.0,sample
+D5,D,5,ctrl_media,1.0,sample
+D6,D,6,ctrl_media,2.0,sample
+D7,D,7,ctrl_media,3.0,sample
+D8,D,8,blank,,"blank (media only, no cells)"
+E1,E,1,blank,,"blank (media only, no cells)"
+E2,E,2,MP,1.0,sample
+E3,E,3,MP,2.0,sample
+E4,E,4,MP,3.0,sample
+E5,E,5,unused,,unused
+E6,E,6,unused,,unused
+E7,E,7,unused,,unused
+E8,E,8,blank,,"blank (media only, no cells)"
+F1,F,1,unused,,unused
+F2,F,2,unused,,unused
+F3,F,3,unused,,unused
+F4,F,4,unused,,unused
+F5,F,5,unused,,unused
+F6,F,6,unused,,unused
+F7,F,7,unused,,unused
+F8,F,8,unused,,unused
